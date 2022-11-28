@@ -3,15 +3,15 @@
 Portfolio Website
 
 <--Technologies Used-->
-HTML
-CSS
-Javascript
+HTML;
+CSS;
+Javascript;
 
 <--External Resources-->
-https://fonts.google.com/specimen/Jost?query=Jost
-https://pixabay.com/
-https://www.flaticon.com/
+https://fonts.google.com/specimen/Jost?query=Jost;
+https://pixabay.com/;
+https://www.flaticon.com/;
 
 <!--Reference links-->
-https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh
-https://www.w3schools.com/tags/tag_audio.asp
+https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh;
+https://www.w3schools.com/tags/tag_audio.asp;
